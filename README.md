@@ -8,4 +8,4 @@
 
 ## Model Performance
 <strong>Validation Accuracy:</strong> 0.98<br>
-![alt image](https://github.com/sesankm/xray_pneumonia_classification/blob/main/covid_xray_predictions.png)
+![alt image](https://github.com/sesankm/pneumonia_detection/blob/main/covid_xray_predictions.png)
