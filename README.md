@@ -1,4 +1,4 @@
-# xray_pneumonia_classification
+# pneumonia_detection
 
 ## Overview
 * Dataset: https://www.kaggle.com/khoongweihao/covid19-xray-dataset-train-test-sets
