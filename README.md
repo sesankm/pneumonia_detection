@@ -1,2 +1,4 @@
 # xray_pneumonia_classification
-determine if pneumonia is present in xrays
+
+## Overview
+* Dataset: https://www.kaggle.com/khoongweihao/covid19-xray-dataset-train-test-sets
